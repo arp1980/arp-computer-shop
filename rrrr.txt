@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARP কম্পিউটার & স্টেশনারি</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #007bff; color: white; padding: 15px; font-size: 24px; }
+        .container { padding: 20px; }
+        .service, .product { background: white; margin: 10px; padding: 15px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .contact { background: #ddd; padding: 15px; }
+    </style>
+</head>
+<body>
+    <header>ARP কম্পিউটার & স্টেশনারি</header>
+    
+    <div class="container">
+        <h2>আমাদের সেবাসমূহ</h2>
+        <div class="service">1. জমির খাজনা খারিজের আবেদন</div>
+        <div class="service">2. জমির খাজনা চেক কাটা</div>
+        <div class="service">3. জন্ম নিবন্ধনের আবেদন</div>
+        <div class="service">4. সকল কলেজের ভর্তি আবেদন</div>
+        <div class="service">5. স্টেশনারি সামগ্রী বিক্রয়</div>
+    </div>
+    
+    <div class="container">
+        <h2>আমাদের পণ্য</h2>
+        <div class="product">📌 স্টেশনারি মালামাল</div>
+        <div class="product">📌 কম্পিউটার সার্ভিস</div>
+    </div>
+    
+    <div class="contact">
+        <h2>যোগাযোগ করুন</h2>
+        <p>অবস্থান: অষ্টমনিষা বাজার, ভাঙ্গুড়া, পাবনা</p>
+        <p>মোবাইল: ০১৭১৩৭৪৬২৫২</p>
+    </div>
+</body>
+</html>
